@@ -1,0 +1,28 @@
+body{
+	font-size: 20px;
+	margin: 30px;
+	color: #ffff;
+	background-color: #8d8d8d;
+}
+
+h1{
+	font-family: Roboto, sans-serif;
+	font-size: 35px;
+	color: #e4c200;
+	font-weight: 900;
+	text-transform: uppercase;
+    text-align: center;}
+	
+	
+h2{
+	font-family: Roboto, sans-serif;
+	font-size: 20px;
+	font-weight: 300;
+	text-transform: uppercase;
+    text-align: center;}
+	
+p{
+	font-family: Roboto, sans-serif;
+	font-size: 10px;}
+
+
